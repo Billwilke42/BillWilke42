@@ -3,7 +3,7 @@
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/bill-wilke-6b863796)
+- [LinkedIn](https://www.linkedin.com/in/bill-wilke)
 - [Twitter](https://twitter.com/billwilke720)
 - billwilke2@gmail.com
 
@@ -11,7 +11,7 @@
 ________
 
 
-My name is Bill Wilke (He/Him) and I am an alumni of the Front-End program at the Turing School of Software & Design. I love creating dynamic web applications that are beautiful as well as being chock full of features. I am proficient in JavaScript, Redux, Express, CSS/SASS, HTML, Git, Node, Redux Thunks, and Jest, but I am trying to grow that list every day. I have a passion for team-building, learning, creative problem solving, and sharing my knowledge with others. If you have any tips for my creations or job opportunities, please send me a message on my [LinkedIn](https://www.linkedin.com/in/bill-wilke-6b863796) or via email at billwilke2@gmail.com!
+My name is Bill Wilke (He/Him) and I am an alumni of the Front-End program at the Turing School of Software & Design. I love creating dynamic web applications that are beautiful as well as being chock full of features. I am proficient in JavaScript, Redux, Express, CSS/SASS, HTML, Git, Node, Redux Thunks, and Jest, but I am trying to grow that list every day. I have a passion for team-building, learning, creative problem solving, and sharing my knowledge with others. If you have any tips for my creations or job opportunities, please send me a message on my [LinkedIn](https://www.linkedin.com/in/bill-wilke) or via email at billwilke2@gmail.com!
 
 <!--
 **Billwilke42/BillWilke42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
