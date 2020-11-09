@@ -1,11 +1,5 @@
 [![Bill-Wilke-1.png](https://i.postimg.cc/xjtpK9fb/Bill-Wilke-1.png)](https://postimg.cc/qg6GrVCk)
 
-
-- [LinkedIn](https://www.linkedin.com/in/bill-wilke)
-- [Twitter](https://twitter.com/billwilke720)
-- billwilke2@gmail.com
-
-
 ________
 
 
