@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Bill-Wilke.png](https://postimg.cc/YG9bYv9g)
-
+![Bill-Wilke.png](https://i.postimg.cc/bJ0WXbf6/Bill-Wilke.png)](https://postimg.cc/YG9bYv9g)
 
 
 - [LinkedIn](https://www.linkedin.com/in/bill-wilke)
