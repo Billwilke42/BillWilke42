@@ -15,7 +15,7 @@ My name is Bill Wilke (He/Him) and I am an alumni of the Front-End program at th
 
 - 📫 How to reach me **billwilke2@gmail.com**
 
-- 📄 Know about my experiences [https://alumni.turing.io/sites/default/files/resumes/BillWilkeResume%20%2872%29.pdf](https://alumni.turing.io/sites/default/files/resumes/BillWilkeResume%20%2872%29.pdf)
+- 📄 Know about my experiences [Resume](https://alumni.turing.io/sites/default/files/resumes/BillWilkeResume%20%2872%29.pdf)
 
 - ⚡ Fun fact **I have a six year old husky name Yukon that is my best friend in the WHOLE world!**
 
