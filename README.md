@@ -5,8 +5,6 @@
 
 My name is Bill Wilke (He/Him) and I am an alumni of the Front-End program at the Turing School of Software & Design. I love creating dynamic web applications that are beautiful as well as being chock full of features. I am proficient in JavaScript, Redux, Express, CSS/SASS, HTML, Git, Node, Redux Thunks, and Jest, but I am trying to grow that list every day. I have a passion for team-building, learning, creative problem solving, and sharing my knowledge with others. If you have any tips for my creations or job opportunities, please send me a message on my [LinkedIn](https://www.linkedin.com/in/bill-wilke) or via email at billwilke2@gmail.com!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billwilke42" alt="billwilke42" /></a> </p>
-
 - 🔭 I’m currently working on **my personal website**
 
 - 🌱 I’m currently learning **TypeScript, Docker, Strapi**
