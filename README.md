@@ -1,8 +1,5 @@
 [![Bill-Wilke-1.png](https://i.postimg.cc/xjtpK9fb/Bill-Wilke-1.png)](https://postimg.cc/qg6GrVCk)
 
-________
-
-
 <h1 align="center">Hi 👋, I'm Bill Wilke</h1>
 <h3 align="center">A passionate Full Stack Developer from Denver</h3>
 
