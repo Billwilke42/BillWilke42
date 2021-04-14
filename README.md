@@ -16,8 +16,3 @@
 - 📫 How to reach me **billwilke2@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://alumni.turing.io/sites/default/files/resumes/BillWilkeResume%20%2872%29.pdf)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billwilke42&show_icons=true&locale=en&layout=compact" alt="billwilke42" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billwilke42&show_icons=true&locale=en" alt="billwilke42" /></p>
