@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **my personal website**
 
-- 🌱 I’m currently learning **TypeScript, Docker, C#, Unity**
-
-- 👨‍💻 All of my projects are available at [https://alumni.turing.io/alumni/bill-wilke](https://alumni.turing.io/alumni/bill-wilke)
+- 🌱 I’m currently learning **TypeScript, Docker, C#, Go **
 
 - 💬 Ask me about **React, JavaScript, Node, and Express**
 
