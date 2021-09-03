@@ -12,5 +12,3 @@
 - 💬 Ask me about **React, JavaScript, Node, and Express**
 
 - 📫 How to reach me **billwilke2@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://alumni.turing.io/sites/default/files/resumes/BillWilkeResume%20%2872%29.pdf)
