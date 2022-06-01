@@ -1,5 +1,3 @@
-[![Bill-Wilke-1.png](https://i.postimg.cc/xjtpK9fb/Bill-Wilke-1.png)](https://postimg.cc/qg6GrVCk)
-
 <h1 align="center">Hi 👋, I'm Bill Wilke (He/Him/His)</h1>
 <h3 align="center">A passionate Full Stack Developer from Denver...</h3>
 
